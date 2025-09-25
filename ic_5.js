@@ -56,4 +56,9 @@ function findProductById(id) {
    } 
    return null; 
 }
+console.log(findProductById(202));
 
+//Step 4
+function lineItemTotal(cartItem) {
+    let product = findProductById
+}
